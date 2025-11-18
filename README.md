@@ -1,3 +1,6 @@
+[![ShinyApp](https://img.shields.io/badge/Shiny_App-Online-success?style=flat&logo=R)](https://ancikenss.shinyapps.io/viral_music/)
+
+
 # Song Virality Predictor
 Predicting whether a song is likely to go viral using Spotify & TikTok audio features  
 Built with R, Logistic Regression, and Shiny
